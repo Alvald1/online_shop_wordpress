@@ -1,0 +1,4 @@
+2023-11-14T19:54:08+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OSPanel\domains\mySite\wp-content\plugins\woocommerce\includes\tracks\events\class-wc-orders-tracking.php на строке 197
+
+2023-11-14T19:55:16+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OSPanel\domains\mySite\wp-admin\includes\class-wp-filesystem-direct.php на строке 82
+

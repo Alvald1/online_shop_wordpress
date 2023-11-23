@@ -1,0 +1,6 @@
+2023-11-13T08:23:44+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OSPanel\domains\mySite\wp-includes\Requests\src\Transport\Curl.php на строке 534
+
+2023-11-13T12:57:34+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OSPanel\domains\mySite\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\MiniCart.php на строке 242
+
+2023-11-13T14:31:28+00:00 CRITICAL Maximum execution time of 60 seconds exceeded в C:\OSPanel\domains\mySite\wp-admin\includes\class-wp-filesystem-direct.php на строке 82
+
